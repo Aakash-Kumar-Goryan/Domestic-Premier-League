@@ -9,3 +9,10 @@ team or the team which he/she considers will win the tournament
 ### System Requirements
   - C++ (gcc 6.3)
   - Additional Header files used: graphics.h
+
+### Team
+
+ - [Aakash Kumar Goryan](https://github.com/Aakash-Kumar-Goryan)
+
+ - [Anshuman](https://github.com/anshuman-01)
+
