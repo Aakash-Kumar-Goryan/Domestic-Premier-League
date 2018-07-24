@@ -1,0 +1,111 @@
+ROYAL CHALLENGERS BANGALORE
+Player Name			Age	Avg	Nationality
+Shane Watson			37	30.15	AUSTRALIA
+Chris Gayle			34	36.17	WEST INDIES
+AB de Villiers			32	33.26	SOUTH AFRICA
+Virat Kohli			28	40.55	INDIA
+Stuart Binny			25	20.19	INDIA
+Iqbal Abdulla			23	10.00	INDIA
+Sreenath Aravind		26	07.62	INDIA
+Kedar Jadhav			29	25.26	INDIA
+Vikramjeet Singh Malik		30	02.39	INDIA
+Kane Richardson			28	11.63	AUSTRALIA
+Varun Aaron			25	05.58	INDIA
+
+SUNRISERS HYDERABAD
+Player Name			Age	Avg	Nationality
+Yuvraj Singh			33	25.63	INDIA
+Ashish Nehra			36	05.25	INDIA
+Eoin Morgan			33	23.68	ENGLAND
+Moises Henriques		30	21.00	AUSTALIA
+Shikhar Dhawan			32	29.12	INDIA
+Naman Ojha			30	22.35	INDIA
+Bhuvneshwar Kumar		27	14.23	INDIA
+David Warner			28	40.38	AUSTRALIA
+Siddarth Kaul			23	02.36	INDIA
+Karn Sharma			26	07.00	INDIA
+Abhimanyu Mithun		31	12.45	INDIA
+
+GUJARAT LIONS
+Player Name			Age	Avg	Nationality
+Dinesh Karthik			29	30.25	INDIA 
+Brendon McCullum		37	32.16	NEWZELAND
+Dwayne Bravo			33	28.96	WEST INDIES
+Dwayne Smith			31	35.89	WEST INDIES
+Suresh Raina			29	41.24	INDIA
+Dale Steyn			34	05.23	SOUTH AFRICA
+Ravindra Jadeja			29	15.68	INDIA
+Praveen Kumar			35	09.00	INDIA
+Dhawal Kulkarni			30	05.21	INDIA
+Jaydev Shah			28	12.65	INDIA
+Pradeep Sangwan			32	01.25	INDIA
+
+KOLKATA KNIGHT RIDERS
+Player Name			Age	Avg	Nationality
+Brad Hogg			42	05.23	AUSTRALIA
+Gautam Gambhir			34	32.64	INDIA
+Shaun Tait			34	03.00	AUSTRALIA
+Piyush Chawla			30	18.65	INDIA
+Robin Uthappa			32	34.21	INDIA
+Shakib Al Hasan			31	23.00	BANGLADESH
+Morne Morkel			31	04.15	SOUTH AFRICA
+Yusuf Pathan			34	21.47	INDIA
+Manish Pandey			26	29.97	INDIA
+Umesh Yadav			28	10.25	INDIA
+Sunil Narine			31	05.55	WEST INDIES
+
+DELHI DAREDEVILS
+Player Name			Age	Avg	Nationality
+Zaheer Khan			38	03.00	INDIA
+Jean-Paul Duminy		32	44.13	SOUTH AFRICA
+Amit Mishra			32	08.14	INDIA
+Mayank Agarwal			24	17.75	INDIA  
+Imran Tahir			31	04.50	SOUTH AFRICA
+Nathan Coulter-Nile		30	07.25	AUSTRALIA
+Shahbaz Nadeem			32	02.66	INDIA
+Mohammed Shami			29	02.50	INDIA
+Quinton de Cock			23	32.70	SOUTH AFRICA
+Sam Billings			22	22.00	AUSTRALIA
+Carlos Brathwaite		24	13.83	WEST INDIES
+
+MUMBAI INDIANS
+Player Name			Age	Avg	Nationality
+Parthiv Patel			34	24.15	INDIA 
+Harbhajan Singh			35	12.00	INDIA
+Jerome Taylor			32	03.15	WEST INDIES
+Rohit Sharma			30	33.18	INDIA
+Lendl Simmons			30	30.24	WEST INDIES
+Kieron Pollard			31	25.66	WEST INDIES
+Tim Southee			28	15.40	NEWZELAND
+Vinay Kumar			32	12.10	INDIA
+Martin Guptill			34	21.00	NEWZELAND
+Jos Buttler			26	30.24	ENGLAND
+Ambati Rayudu			29	28.88	INDIA
+
+RISING PUNE SUPERGIANTS
+Player Name			Age	Avg	Nationality
+Irfan Pathan			35      15.16	INDIA
+MS Dhoni			36      35.28	INDIA
+Kevin Pietersen			36      31.00	ENGLAND
+RP Singh			35      02.00	INDIA
+Albie Morkel			33      18.68	SOUTH AFRICA
+Ishant Sharma			30      05.25	INDIA
+George Bailey			32      22.28	AUSTRALIA
+Ajinkya Rahane			29      30.69	INDIA
+Ashok Dinda			27      08.00	INDIA
+Rajat Bhatia			33      15.22	INDIA
+Ravichandran Ashwin		30	18.24	INDIA
+
+KINGS XI PUNJAB
+Player Name			Age	Avg	Nationality
+Hashim Amla			33	20.15	SOUTH AFRICA
+Mitchell Johnson		34	05.05	AUSTRALIA             
+Wriddhiman Saha			29	15.28	INDIA
+Murali Vijay			30	28.24	INDIA
+Anureet Singh			26	05.00	INDIA
+David Miller			31	31.00	SOUTH AFRICA
+Glenn Maxwell			26	22.25	AUSTRALIA
+Mohit Sharma			27	05.75	INDIA
+Farhaan Behardien		26	15.35	SOUTH AFRICA
+Gurkeerat Singh Mann		27	18.22	INDIA
+Sandeep Sharma			24	02.25	INDIA
