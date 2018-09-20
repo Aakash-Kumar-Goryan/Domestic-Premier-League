@@ -13,6 +13,7 @@ team or the team which he/she considers will win the tournament
 ### Team
 
  - [Aakash Kumar Goryan](https://github.com/Aakash-Kumar-Goryan)
+ - [Abhishek Das](https://github.com/killerSwitch)
 
  - [Anshuman](https://github.com/anshuman-01)
 
