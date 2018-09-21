@@ -43,7 +43,7 @@ Pradeep Sangwan			32	01.25	INDIA
 KOLKATA KNIGHT RIDERS
 Player Name			Age	Avg	Nationality
 Brad Hogg			42	05.23	AUSTRALIA
-Gautam Gambhir			34	32.64	INDIA
+Gautam Gambhir			38	32.64	INDIA
 Shaun Tait			34	03.00	AUSTRALIA
 Piyush Chawla			30	18.65	INDIA
 Robin Uthappa			32	34.21	INDIA
